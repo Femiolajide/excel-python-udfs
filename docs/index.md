@@ -6,5 +6,5 @@ Every function in this repository, with a link to its page. Status is **Stable**
  
 | Function | Description | Status |
 | --- | --- | --- |
-| [`TEXT_BETWEEN`](text/TEXT_BETWEEN.md) | Returns the text between two delimiters, with instance numbers counted from either end | Stable |
+| [TEXT_BETWEEN](text/TEXT_BETWEEN.md) | Returns the text between two delimiters, with instance numbers counted from either end | Stable |
  
