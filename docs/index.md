@@ -12,4 +12,4 @@ Every function in this repository, with a link to its page.
 
 | Function | Description |
 | --- | --- |
-| [`UNPIVOT_TABLE`](doca/UNPIVOT_TABLE.md) | Converts a table from wide to long format, using pandas `melt` |
+| [`UNPIVOT_TABLE`](docs/UNPIVOT_TABLE.md) | Converts a table from wide to long format, using pandas `melt` |
